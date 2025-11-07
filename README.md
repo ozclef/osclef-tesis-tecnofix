@@ -4,9 +4,6 @@ la tesis por oscar para ico compu ingles de oriente , seminario 2020 de programa
 
 
 
-
-
-
 Dijiste:
 para hacrr 
 es me gustaria tambien empeñar pero la otra bocina cajon, ahorita dice que la queire empeñar 
@@ -14,6 +11,17 @@ eso sii queria sabe run precio de esta marca jbl
 cuanti para pedirlo en una casa de empeño gracias
 700 $ dice que le costo 9 balados ovalado?? jajaja no le se 
 pero eso para empeñar cuanto negrocialble ??? 
+
+
+[
+  {
+    "id": "bocina_linkbits_rf118",
+    "titulo": "Bocina Link Bits RF-118 (usada)",
+    "descripcion": "Funciona. Sin Bluetooth. Entrada USB y AUX.",
+    "precio": 150,
+    "imagen": "./img/bocina.jpg"
+  }
+]
 
 
 
